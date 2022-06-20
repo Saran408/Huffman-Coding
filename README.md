@@ -1,4 +1,4 @@
-### EXP NO:
+### EXP NO: 12
 ### DATE:
 
 # <p align='center'> Huffman-Coding</p>
